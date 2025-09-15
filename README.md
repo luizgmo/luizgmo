@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, Kotlin and Oracle**
 
-- 💬 Ask me about **React, Node.js, and mobile development**
+- 💬 Ask me about **React Native, Node.js, and mobile development**
 
 - ⚡ Fun fact **I have more than 1500 streak on duolingo**
 
