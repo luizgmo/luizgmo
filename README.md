@@ -52,5 +52,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luizgmo&theme=dark&background=00000000&hide_border=true&stroke=4F8CC9&ring=4F8CC9&fire=4F8CC9&currStreakLabel=4F8CC9" alt="luizgmo" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luizgmo&theme=react-dark&bg_color=00000000&hide_border=true&area=true&line=4F8CC9&point=4F8CC9&color=4F8CC9" alt="Activity Graph" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/luizgmo/count.svg" alt="Visitors" />
+  • 
+  <img src="https://img.shields.io/github/commit-activity/m/luizgmo?color=4F8CC9&label=Commits" alt="Monthly Commits" />
 </p>
