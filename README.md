@@ -52,9 +52,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luizgmo&show_icons=true&theme=dark&bg_color=00000000&hide_border=true&text_color=ffffff&icon_color=4F8CC9&title_color=4F8CC9&layout=compact" alt="luizgmo" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=luizgmo&theme=dark&background=00000000&hide_border=true&stroke=4F8CC9&ring=4F8CC9&fire=4F8CC9&currStreakLabel=4F8CC9" alt="luizgmo" />
 </p>
