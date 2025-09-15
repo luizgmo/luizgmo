@@ -2,10 +2,6 @@
 <h3 align="center">A passionate full-stack developer from Brazil</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F8CC9&center=true&vCenter=true&width=435&lines=Turning+ideas+into+reality;Clean+code+enthusiast;1500%2B+days+Duolingo+streak" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=luizgmo&label=Profile%20views&color=4F8CC9&style=flat" alt="luizgmo" />
 </p>
 
@@ -57,10 +53,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luizgmo&show_icons=true&theme=dark&bg_color=00000000&hide_border=true&text_color=ffffff&icon_color=4F8CC9&title_color=4F8CC9&layout=compact" alt="luizgmo" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luizgmo&show_icons=true&theme=dark&bg_color=00000000&hide_border=true&text_color=ffffff&icon_color=4F8CC9&title_color=4F8CC9" alt="luizgmo" />
 </p>
 
 <p align="center">
