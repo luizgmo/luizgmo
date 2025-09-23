@@ -50,7 +50,3 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws"/> </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/> </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luizgmo&theme=dark&background=00000000&hide_border=true&stroke=4F8CC9&ring=4F8CC9&fire=4F8CC9&currStreakLabel=4F8CC9" alt="luizgmo" />
-</p>
