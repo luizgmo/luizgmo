@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React Native, Node.js, and mobile development**
 
-- ⚡ Fun fact **I have more than 1700 streak on duolingo**
+- ⚡ Fun fact **I have more than 1800 streak on duolingo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
